@@ -20,7 +20,8 @@
   order: 0;
   padding: 0px;
 }
-.columns > div > .columns-img-col picture {
+.columns > div > .columns-img-col picture,
+.columns > div > .columns-img-col source {
   padding: 0px;
 }
 
