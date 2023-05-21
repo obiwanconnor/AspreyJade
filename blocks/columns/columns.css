@@ -9,10 +9,12 @@
 
 .columns > div > div {
   order: 1;
+  padding: 35px;
 }
 
 .columns > div > .columns-img-col {
   order: 0;
+  padding: 0px;
 }
 
 .columns > div > .columns-img-col img {
