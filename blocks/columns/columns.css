@@ -21,6 +21,10 @@
   padding: 0px;
 }
 
+.columns > div > .columns-img-col {
+  padding: 0px;
+}
+
 .columns > div > .columns-img-col img {
   display: block;
 }
