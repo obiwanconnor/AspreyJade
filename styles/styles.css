@@ -232,8 +232,6 @@ main .section {
 
 @media (min-width: 900px) {
   .section > div {
-    max-width: 1200px;
-    margin: auto;
   }
 }
 
