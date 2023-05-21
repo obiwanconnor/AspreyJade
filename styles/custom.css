@@ -1123,3 +1123,7 @@ main.container {
 .backgroundAspreyPurple .cmp-button, .backgroundBlack .cmp-button, .backgroundDeepPurple .cmp-button, .backgroundEmerald .cmp-button, .backgroundRacingGreen .cmp-button {
     background-color: rgb(247, 249, 249) !important;
 }
+
+.mainTitle h1 {
+    font-size: 32px;
+}
