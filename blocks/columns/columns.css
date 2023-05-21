@@ -18,6 +18,8 @@
 
 .columns > div > .columns-img-col {
   order: 0;
+}
+.columns > div > .columns-img-col picture {
   padding: 0px;
 }
 
