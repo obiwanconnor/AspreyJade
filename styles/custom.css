@@ -91,13 +91,7 @@ img {
     width: auto;
 }
 
-.pageHeader {
-    background-color: rgb(255, 255, 255);
-    margin: 0px auto;
-    max-width: 80pc;
-    padding: 75px 0px;
-    float: none !important;
-}
+
 
 .pageLogo {
     padding: 20px 0px;
@@ -1122,6 +1116,16 @@ main.container {
 
 .backgroundAspreyPurple .cmp-button, .backgroundBlack .cmp-button, .backgroundDeepPurple .cmp-button, .backgroundEmerald .cmp-button, .backgroundRacingGreen .cmp-button {
     background-color: rgb(247, 249, 249) !important;
+}
+
+/** Refactored **/
+
+.pageHeader {
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    max-width: 80pc;
+    padding: 75px 0px;
+    float: none !important;
 }
 
 .maintitle {
