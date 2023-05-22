@@ -1124,7 +1124,9 @@ main.container {
     background-color: rgb(247, 249, 249) !important;
 }
 
-
+.maintitle {
+    background-color: rgb(247, 249, 249);
+}
 .maintitle h1 {
     font-size: 60px;
 }
