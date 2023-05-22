@@ -1128,8 +1128,7 @@ main.container {
 .maintitle h1 {
     font-size: 60px;
 }
-.maintitle h1,
-.maintitle p,
-.maintitle p {
+.maintitle > div > div > h1,
+.maintitle > div > div > p {
     text-align: center;
 }
